@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.joblib
+*.mmdb
+data/raw/*
+!data/raw/.gitkeep
